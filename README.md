@@ -1,3 +1,3 @@
 # Password-Generator
-Just a simple password generator using python.Part of Email Storage project
+Just a simple password generator using python. Part of Email Storage project
 
