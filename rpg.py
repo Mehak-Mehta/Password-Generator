@@ -1,5 +1,4 @@
 import random
-
 def main():
     maxlen = 12
 
